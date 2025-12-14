@@ -1,1 +1,1 @@
-<?php echo 'Long update code cua Long'; ?>
+<?php echo 'Long update code cua Long va da sua xong xung dot'; ?>
